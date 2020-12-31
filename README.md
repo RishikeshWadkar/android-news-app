@@ -34,6 +34,7 @@ Screenshots
 ------------
 
 <img src="https://github.com/SrChip15/android-news-app/blob/master/splash_sceen.png" width="300"/>
+![2020](https://user-images.githubusercontent.com/59508176/103398526-21739300-4b63-11eb-824e-8b4ce2ad93b8.jpg)
 
 
 License
